@@ -1140,3 +1140,4 @@ console.log(map(rtlScripts, s => s.name));
 console.log(rtlScripts.map(s=>s.name)); 
 
 //console.log(SCRIPTS.map(s=>s.name)); same as code above, from filter extracts just names 
+console.log("hello");
